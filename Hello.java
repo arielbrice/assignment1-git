@@ -7,8 +7,8 @@ public class Hello{
         Random rand = new Random();
         int num = rand.nextInt();
         if(num % 2 == 0)
-         System.out.println("Even Number, Hello World");
+         System.out.println("The Number, Hello World");
         if(num % 2 != 0)
-            System.out.println("Odd Number, Hello World");
+            System.out.println("Other Number, Hello World");
     }
 }
