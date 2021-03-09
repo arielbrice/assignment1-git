@@ -6,5 +6,6 @@ public class Hello{
     {
         x = 1+1;
         System.out.println(x);
+        System.out.println("Hello")
     }
 }
