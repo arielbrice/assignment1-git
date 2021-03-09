@@ -6,5 +6,9 @@ public class Hello{
     {
         int y = 2+7;
         return(Y + "This is the value of y")
+
+        x = 1+1;
+        System.out.println(x);
+        System.out.println("Hello")
     }
 }
