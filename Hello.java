@@ -10,5 +10,6 @@ public class Hello{
          System.out.println("Even Number, Hello World");
         if(num % 2 != 0)
             System.out.println("Odd Number, Hello World");
+        System.out.println("Yes");
     }
 }
