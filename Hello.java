@@ -1,6 +1,14 @@
+import java.util.*;
 public class Hello{
+
+
     public static void main(String args[])
     {
-        System.out.println("Hello World");
+        Random rand = new Random();
+        int num = rand.nextInt();
+        if(num % 2 == 0)
+         System.out.println("Even Number, Hello World");
+        if(num % 2 != 0)
+            System.out.println("Odd Number, Hello World");
     }
 }
