@@ -4,7 +4,7 @@ public class Hello{
 //Comment to break the commit
     public static void main(String args[])
     {
-        x = 1+1;
-        System.out.println(x);
+        int y = 2+7;
+        return(Y + "This is the value of y")
     }
 }
